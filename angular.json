@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-with-openlayers"
+    }
+  },
+  "defaultProject": "angular-with-openlayers",
+  "cli": {
+    "analytics": false
+  }
 }
